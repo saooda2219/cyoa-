@@ -1,3 +1,3 @@
 tell story
-Go shopping only
+(Go shopping only)[shopping.md]
 (Go eat)[goeat.md]
